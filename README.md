@@ -10,8 +10,8 @@ A repository containing numerous codewars challenges (aka kata). Succsesfully co
 
 **Tech used:** JavaScript
 
-Every morning, I start my routine by taking on a codewars challenge. It helps to sharpen my problem-solving abilities before diving into my daily tasks.
+Most mornings, I start my routine by taking on a codewars challenge. It helps sharpen my problem-solving abilities before diving into my daily tasks.
 
 ## Lessons Learned:
 
-The main takeaway I've gotten from facing these countless problems, is that there is still a lot to learn and there will always be room for growth. As long as you are constantly making an effort to improve and  enhance your understanding, its okay to not have all the answers right away.
+The main takeaway I've gotten from facing these countless problems, is that there's still a lot to learn and there will always be room for growth. As long as you're constantly making an effort to improve and  enhance your understanding, its okay to not have all the answers right away.
