@@ -12,17 +12,24 @@
 
 
 
-// Logical Solution
+// My Solution
 function alphabetPosition(text) {
-    let result = "";
-    for (let i = 0; i < text.length; i++){
-      let code = text.toUpperCase().charCodeAt(i)
-      if (code > 64 && code < 91) result += (code - 64) + " ";
-    }
-  
-    return result.slice(0, result.length-1);
+  return text.toLowerCase().split('')
+              .filter( char => char.charCodeAt(0) > 96 && char.charCodeAt(0) < 123)
+              .map( letter => letter.charCodeAt(0) - 96)
+              .join(' ')
 }
 
+
+// My OTHER Solution
+function alphabetPosition(text) {
+  const alphabet = "abcdefghijklmnopqrstuvwxyz".split('')
+  
+  return text.toLowerCase().split('')
+              .filter( char => alphabet.indexOf(char) > -1)
+              .map( letter => alphabet.indexOf(letter) + 1)
+              .join(' ')
+}
 
 
 // Other Solutions
