@@ -11,6 +11,24 @@
 // isIsogram "aba" = false
 
 
+// My Solution
+
+//str -> word w/ uppercase / lowercase letters, ""
+// return -> true or false. TRUE if no letter is repeated.
+function isIsogram(str){
+  // make str same casing, lowercase
+  str = str.toLowerCase()
+  // loop thru letters of str
+  for (const letter of str) {
+    // indexOf === lastIndexOf, checks if first letter instance is last letter instance
+    if (str.indexOf(letter) !== str.lastIndexOf(letter)) return false
+  }
+  return true
+}
+console.log( isIsogram("Dermatoglyphics"), true)
+console.log( isIsogram("isIsogram"), false)
+
+
 // Logical Solution
 function isIsogram(str){
 	return new Set(str.toUpperCase()).size == str.length;
