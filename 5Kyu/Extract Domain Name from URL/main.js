@@ -7,7 +7,6 @@
 // * url = "https://www.cnet.com"                -> domain name = cnet"
 
 
-
 // My Solution
 function domainName(url){
 	return url.replace("http://", "")
