@@ -23,7 +23,6 @@
 // 0 <= n <= 30
 
 
-
 // My Solution - Brute Force method
 function fib(num) {
     let sequence = [0, 1]
@@ -38,7 +37,6 @@ function fib(num) {
 }
 
 fib(10)
-
 
 
 // Other Solutions - Recursion method
