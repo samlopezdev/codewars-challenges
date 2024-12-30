@@ -18,7 +18,6 @@ function toWeirdCase(string){
     }).join(' ');
 }
 
-
 // Other Solutions
 function toWeirdCaseCharacter(chr, index)
 {
