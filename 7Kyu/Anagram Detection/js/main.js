@@ -20,7 +20,6 @@ var isAnagram = function(test, original) {
 };
 
 
-
 // Other Solutions
 var isAnagram = function(test, original) {
     var t = test.toLowerCase().split('').sort().join('');
