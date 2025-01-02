@@ -8,22 +8,18 @@
 // "1405" --> 1405
 // "-7" --> -7
 
-
 // My Solution
 function stringToNumber(str) {
     return Number(str)
 }
-
 
 // Other Solutions:
 function stringToNumber(str) {
     return parseInt(str)
 }
 
-
 // 2
 const stringToNumber = str => parseInt(str)
-
 
 // 3
 var stringToNumber = function(str){
