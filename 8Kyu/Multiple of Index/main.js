@@ -10,7 +10,6 @@
 // [-56,-85,72,-26,-14,76,-27,72,35,-21,-67,87,0,21,59,27,-92,68] => [-85, 72, 0, 68]
 
 
-
 // My Solution
 function multipleOfIndex(array) {
     return array.filter( (num, i) => num == 0 || num % i == 0)
