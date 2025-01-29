@@ -4,7 +4,7 @@
 
 A repository containing numerous codewars challenges (aka kata). Succsesfully completed over +100 challenges and my solutions are pushed on a daily basis.
 
-**Codewars profile:** [https://www.codewars.com/users/SamanthaLProgramming](https://www.codewars.com/users/SamLopezDev)
+**Codewars profile:** [https://www.codewars.com/users/SamLopezDev](https://www.codewars.com/users/SamLopezDev)
 
 ## How It's Made:
 
