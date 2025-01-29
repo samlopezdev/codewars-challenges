@@ -1,10 +1,10 @@
-# Codewars Challenges: <a href="https://www.codewars.com/users/SamanthaLProgramming">Visit Here</a>
+# Codewars Challenges: <a href="https://www.codewars.com/users/SamLopezDev">Visit Here</a>
 
 ![CodeWars Profile](https://github.com/SamanthaLProgramming/codewars-challenges/assets/150631576/7fd0b810-c0a7-41c5-841a-e2f3582e5c50)
 
 A repository containing numerous codewars challenges (aka kata). Succsesfully completed over +100 challenges and my solutions are pushed on a daily basis.
 
-**Codewars profile:** https://www.codewars.com/users/SamanthaLProgramming
+**Codewars profile:** [https://www.codewars.com/users/SamanthaLProgramming](https://www.codewars.com/users/SamLopezDev)
 
 ## How It's Made:
 
