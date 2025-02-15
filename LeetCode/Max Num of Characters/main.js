@@ -4,7 +4,9 @@
 
 // No String or Array Methods (well brute force it first, but then no methods)! 
 
+
 //My Solution
+
 //string -> 'Hello World!'
 // return the most used chararacter -'l'>
 
