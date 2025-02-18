@@ -9,7 +9,6 @@
 // "..." are to be replaced by the number, followed and proceeded by a single space. Mind that you need to account for both "year" and "years", depending on the result.
 
 
-
 // My Solution:
 function  calculateAge(birthYear, yearToCount) {
     let num = 0
