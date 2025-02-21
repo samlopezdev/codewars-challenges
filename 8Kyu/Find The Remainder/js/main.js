@@ -22,7 +22,6 @@ function remainder(n, m){
 }
 
 
-
 // Other Solutions
 function remainder(a, b){
     return a > b ? a % b : b % a;
