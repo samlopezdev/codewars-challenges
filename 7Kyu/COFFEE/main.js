@@ -17,7 +17,6 @@
 // Input: "Coffee! Buy me a COFFEE!" Output: "COFFEE! Buy me a COFFEE!"
 
 
-
 // My Solution
 function coffee(str) {
     return str.replace(/coffee/ig, 'COFFEE')
