@@ -8,7 +8,6 @@
 // "aba" --> false
 // "moOse" --> false (ignore letter case)
 
-
 // My Solution
 export function isIsogram(str: string): boolean {
   str = str.toLowerCase();
