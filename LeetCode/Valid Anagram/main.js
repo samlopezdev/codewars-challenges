@@ -12,7 +12,7 @@
 
 // Output: false
 
-// Constraints:
+// Constraints-
 
 // 1 <= s.length, t.length <= 5 * 104
 // s and t consist of lowercase English letters.
