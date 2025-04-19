@@ -8,7 +8,7 @@ A repository containing numerous codewars challenges (aka kata). Succsesfully co
 
 ## How It's Made:
 
-**Tech used:** JavaScript
+**Tech used:** JavaScript / TypeScript
 
 Most mornings, I start my routine by taking on a codewars challenge. It helps sharpen my problem-solving abilities before diving into my daily tasks.
 
