@@ -12,7 +12,6 @@
 // The input array will always contain only positive numbers, and will never be empty or null.
 
 
-
 // My Solution
 function squareOrSquareRoot(array) {
     return array.map( num => {
