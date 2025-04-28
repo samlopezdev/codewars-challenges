@@ -17,7 +17,6 @@
 function sixToast(num) {
   return num >= 6 ? num - 6 : 6 - num;
 }
-
 console.log(sixToast(3), 3);
 console.log(sixToast(17), 11);
 
