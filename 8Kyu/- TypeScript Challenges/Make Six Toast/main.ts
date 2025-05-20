@@ -5,10 +5,8 @@
 
 // Examples:
 // You must return the number of toast the you need to put in (or to take out). In case of 5 you can still put 1 toast in:
-
 // 5 --> 1
 // And in case of 12 you need 6 toasts less (but not -6):
-
 // 12 --> 6
 
 
