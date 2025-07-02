@@ -1,10 +1,8 @@
 // Parse Float
 
 // Write function parseFloat which takes an input and returns a number or null if conversion is not possible.
-
 // s -> string. Possibly numbers and/or letters.
 // return s if it can be converted to numbers, OR 'Nothing' if it can't
-
 
 // My Solution
 export function parseF(s: string): number | null {
