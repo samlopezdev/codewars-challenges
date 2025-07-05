@@ -21,7 +21,6 @@ export function parseF(s: string): number | null {
   return isNaN(parseFloat(s)) ? null : parseFloat(s);
 }
 
-
 // 3
 export function parseF(s: string): number {
   return +s ? +s : s === "0" ? 0 : null;
