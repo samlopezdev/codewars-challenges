@@ -12,7 +12,6 @@
 // The test cases contain numbers only by mistake.
 
 
-
 // My Solution
 export function correct(s: string): string {
   return s.replaceAll("0", "O").replaceAll("5", "S").replaceAll("1", "I");
