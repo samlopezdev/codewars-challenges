@@ -10,7 +10,7 @@ A repository containing numerous codewars challenges (aka kata). Succsesfully co
 
 **Tech used:** JavaScript / TypeScript
 
-Most mornings, I start my routine by taking on a codewars challenge. It helps sharpen my problem-solving abilities before diving into my daily tasks.
+Most mornings, I start my routine by taking on a Codewars challenge or Leetcode problem. It helps sharpen my problem-solving abilities before diving into my daily tasks.
 
 ## Lessons Learned:
 
