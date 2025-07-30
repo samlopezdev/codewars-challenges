@@ -14,7 +14,6 @@
 export const smash = (words: string[]): string => words.join(" ");
 
 
-
 // Other Solutions
 export function smash(words: string[]): string {
   let output: string = "";
