@@ -9,7 +9,6 @@
 // You cannot assume the size of the array.
 // You can assume that you do get an array.
 
-
 // My Solution
 export const smash = (words: string[]): string => words.join(" ");
 
