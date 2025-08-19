@@ -23,7 +23,6 @@ function whatNumberIsIt(n) {
   return "Input number is " + n;
 }
 
-
 // Other Solutions
 function whatNumberIsIt(n) {
   switch (true) {
