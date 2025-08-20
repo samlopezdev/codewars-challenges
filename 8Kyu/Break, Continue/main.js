@@ -10,7 +10,6 @@
 
 // You should use for, break and continue in your code. otherwise, your solution may not pass this kata.
 
-
 // My Solution
 function grabDoll(dolls) {
   const bag = [];
