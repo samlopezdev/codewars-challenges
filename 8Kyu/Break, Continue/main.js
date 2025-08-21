@@ -26,7 +26,6 @@ function grabDoll(dolls) {
   return bag;
 }
 
-
 // Other Solutions
 function grabDoll(dolls) {
   let bag = [],
