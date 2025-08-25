@@ -13,7 +13,6 @@
 // cutIt(["codewars","javascript","java"]) should return ["code","java","java"]
 
 
-
 // My Solution
 function cutIt(arr) {
   let minLength = Math.min(...arr.map(str => str.length));
