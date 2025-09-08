@@ -15,7 +15,6 @@
 // a little hint: Flexible use of slice() Will make the work more simple.
 
 
-
 // My Solution
 function isolateIt(arr) {
   return arr.map(
