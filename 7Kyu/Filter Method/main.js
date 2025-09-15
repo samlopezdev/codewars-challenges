@@ -16,7 +16,6 @@
 // countGrade([65,75,,85,85,95,100,100]) should return {S:2, A:1, B:2, C:2, D:0, X:0}
 // countGrade([-1,-1,-1,-1,-1,-1]) should return {S:0, A:0, B:0, C:0, D:0, X:6}
 
-
 // My Solution
 function countGrade(scores) {
   const finalScores = {
