@@ -1,7 +1,6 @@
 // Filter Method
 
 // Coding in function countGrade. function accept 1 parameters scores, it's a number array. Your task is to count the grade distribution of the scores, to return an object like this:
-
 // {S:888, A:888, B:888, C:888, D:888, X:888}
 // Grading rules:
 
