@@ -12,7 +12,6 @@
 // "Hi"      ---> "Hi!"
 
 
-
 // My Solution
 function remove(s){
   return s.replace(/!/g, '') + '!'
