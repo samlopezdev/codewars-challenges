@@ -2,7 +2,6 @@
 
 // For the ASCII table you can refer to http://www.asciitable.com/
 
-
 // My Solution
 const getASCII = (c) => c.charCodeAt();
 
