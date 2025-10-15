@@ -30,7 +30,6 @@
 // Explanation:
 // Since the size (k) equal 3 , then the subsequence of size 3 whose gives product of maxima is 10 * 3 * -1 = -30
 
-
 // My Solution
 export function maxProduct(numbers: number[], size: number): number {
   const sorted: number[] = numbers.sort((a: number, b: number) => b - a).slice(0, size);
