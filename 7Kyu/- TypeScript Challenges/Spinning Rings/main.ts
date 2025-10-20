@@ -33,7 +33,6 @@ export function spinningRings(innerMax: number, outerMax: number): number {
   return moves;
 }
 
-
 // Other Solutions
 export function spinningRings(innerMax: number, outerMax: number): number {
   let numberOfSpinsTillRingsAreEqual = 1;
