@@ -9,7 +9,6 @@
 // More similar exercise are found here: http://rosalind.info/problems/list-view/ (source)
 
 // Example: (input --> output)
-
 // "ATTGC" --> "TAACG"
 // "GTAT" --> "CATA"
 
