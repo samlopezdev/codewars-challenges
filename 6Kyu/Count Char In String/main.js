@@ -12,7 +12,7 @@ function count(string) {
   const result = {}
   
   for (const letter of string) {
-    !result[letter] ? result[letter] = 1 : ++result[letter]
+    result[letter] ? result[letter]++ : result[letter] = 1
   }
   return result;
 }
