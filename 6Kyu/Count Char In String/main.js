@@ -6,20 +6,17 @@
 
 
 // My Solution
+// string -> string of english letters. no spaces or symbols. could be empty string. Are uppercase and lowercase considered different occurring characters?
+// return -> an object with the letters and the number of times they appear in the string.
 function count(string) {
-    let obj = {}
-    
-    if (!string) return {};
-    
-    for (let i = 0; i < string.length; i++)
-    {
-      let k = string.charAt(i)
-      
-      obj[k] = (isNaN(obj[k]) ? 1 : obj[k] + 1);
-    }
-    
-    return obj
+  const result = {}
+  
+  for (const letter of string) {
+    !result[letter] ? result[letter] = 1 : ++result[letter]
+  }
+  return result;
 }
+
 
 
 
